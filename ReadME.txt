@@ -3,7 +3,7 @@ This repository contains my solution to the H&M Personalized Fashion Recommendat
 
 Key Highlights:
 
-Problem: Build a model that ranks articles based on their likelihood of being purchased by each customer.
+Problem: Build a model that ranks products based on their likelihood of being purchased by each customer.
 Data: Includes customer information, product metadata, and transactional data for millions of purchases.
 Approach:
 Tools & Libraries:
